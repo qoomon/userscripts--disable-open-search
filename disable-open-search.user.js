@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Disable Open Search
 // @namespace    https://qoomon.github.io
-// @version      1.1.0
+// @version      1.1.1
 // @updateURL    https://github.com/qoomon/userscript-disable-open-search/raw/main/show-passwords.user.js
 // @downloadURL  https://github.com/qoomon/userscript-disable-open-search/raw/main/show-passwords.user.js
 // @description  Prevents sites to add search engines to browser
