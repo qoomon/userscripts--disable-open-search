@@ -1,0 +1,1 @@
+# userscript-disable-open-search
