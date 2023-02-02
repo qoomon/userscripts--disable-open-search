@@ -12,9 +12,9 @@
 // @grant        none
 // ==/UserScript==
 
-// notes
+// ==Notes==
 // i in querySelector parameter means case-insesitive matching
-
+// ==/Notes==
 
 (function() {
     'use strict';
