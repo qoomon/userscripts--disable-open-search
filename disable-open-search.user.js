@@ -5,7 +5,7 @@
 // @updateURL    https://github.com/qoomon/userscript-disable-open-search/raw/main/disable-open-search.user.js
 // @downloadURL  https://github.com/qoomon/userscript-disable-open-search/raw/main/disable-open-search.user.js
 // @description  Prevents sites to add search engines to browser
-// @author       Bengt
+// @author       qoomon
 // @match        https://*/*
 // @match        http://*/*
 // @icon         https://img.icons8.com/fluency-systems-filled/64/search.png
