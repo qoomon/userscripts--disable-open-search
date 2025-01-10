@@ -1,4 +1,4 @@
-# userscript-disable-open-search
+# userscript-disable-open-search [![Userscripts](https://img.shields.io/badge/qoomon-Userscripts-blue)](https://github.com/qoomon/userscripts)
 
 This userscript will prevent sites form adding search engins to browser.
 
